@@ -1,0 +1,11 @@
+AMS/.vs/
+AMS/AMS.API/bin/
+AMS/AMS.API/obj/
+AMS/AMS.Common/obj/
+AMS/AMS.Common/bin/
+AMS/AMS.Providers/bin/
+AMS/AMS.Providers/obj/
+AMS/AMS.Repository/bin/
+AMS/AMS.Repository/obj/
+AMS/AMS.Web/bin/
+AMS/AMS.Web/
